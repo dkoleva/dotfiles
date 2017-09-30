@@ -22,6 +22,9 @@ set wildmenu		" display completion matches in a status line
 set ttimeout		" time out for key codes
 set ttimeoutlen=100	" wait up to 100ms after Esc for special key
 
+set nobackup
+set noswapfile
+
 set display=truncate
 
 set scrolloff=5
